@@ -1,5 +1,24 @@
 ## Hi there 👋
 
+I'm Christoph Dyllick-Brenzinger (he/him), an IT entreprenuer and founder of several companies. I'm an speaker and networker.
+In my spare time, I enjoy tinkering with new tech, contributing to open-source projects, and sharing my knowledge through talks and blog posts.
+
+I blog at: 
+
+## Repos and Talks
+
+Here are some of my repos based on my talks:
+
+- ...
+- ...
+
+## Connect with Christoph Dyllick-Brenzinger
+
+- LinkedIn: [christoph-dyllick-brenzinger](https://www.linkedin.com/in/christoph-dyllick-brenzinger/)
+- Blog: ...
+- GitHub: [christophdb](https://github.com/christophdb)
+
+
 <!--
 **christophdb/christophdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
