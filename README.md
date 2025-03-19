@@ -3,20 +3,21 @@
 I'm Christoph Dyllick-Brenzinger (he/him), an IT entreprenuer and founder of several companies. I'm an speaker and networker.
 In my spare time, I enjoy tinkering with new tech, contributing to open-source projects, and sharing my knowledge through talks and blog posts.
 
-I blog at: 
+I blog at: https://christophdb.github.io
 
 ## Repos and Talks
 
 Here are some of my repos based on my talks:
 
-- ...
-- ...
+- https://christophdb.github.io/power-of-automation/
 
 ## Connect with Christoph Dyllick-Brenzinger
 
-- LinkedIn: [christoph-dyllick-brenzinger](https://www.linkedin.com/in/christoph-dyllick-brenzinger/)
-- Blog: ...
+- Home: Mainz, Germany
+- [Contact Form](https://christophdb.github.io/contact)
+- Blog: [christophdb.github.io](https://christophdb.github.io)
 - GitHub: [christophdb](https://github.com/christophdb)
+- LinkedIn: [christoph-dyllick-brenzinger](https://www.linkedin.com/in/christoph-dyllick-brenzinger/)
 
 
 <!--
