@@ -13,11 +13,11 @@ Here are some of my repos based on my talks:
 
 ## Connect with Christoph Dyllick-Brenzinger
 
-- Home: Mainz, Germany
-- [Contact Form](https://christophdb.github.io/contact)
 - Blog: [christophdb.github.io](https://christophdb.github.io)
 - GitHub: [christophdb](https://github.com/christophdb)
 - LinkedIn: [christoph-dyllick-brenzinger](https://www.linkedin.com/in/christoph-dyllick-brenzinger/)
+- [datamate GmbH & Co. KG](https://datamate.org)
+- [SeaTable GmbH](https://seatable.com)
 
 
 <!--
