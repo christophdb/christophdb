@@ -10,6 +10,7 @@ I blog at: https://christophdb.github.io
 Here are some of my repos based on my talks:
 
 - https://christophdb.github.io/power-of-automation/
+- https://christophdb.github.io/cs3-2025-seatable-status-update/
 
 ## Connect with Christoph Dyllick-Brenzinger
 
